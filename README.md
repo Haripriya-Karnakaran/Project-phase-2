@@ -17,10 +17,15 @@ The system employs state-of-the-art deep learning models, including Word2Vec, to
 
 ## REQUIREMENTS
 1.Jupyter Notebook
+
 2.Dataset
+
 3.Processor: Intel Core i3 or i5
+
 4.Memory: 8 GB RAM
+
 5.32 or 64 bit computer
+
 6.Minimum 3GB disk space to download and install Jupyter
 
 ## SYSTEM ARCHITECTURE
