@@ -6,9 +6,13 @@ The system employs state-of-the-art deep learning models, including Word2Vec, to
 
 ## FEATURES
 1.Resume parsing and skill matching using NLP algorithms
+
 2.Personalized job recommendations based on candidate profiles
+
 3.Dynamic generation of interview questions tailored to job requirements
+
 4.Automated evaluation of candidate responses using speech recognition and NLP
+
 5.Objective feedback to candidates for performance improvement
 
 ## REQUIREMENTS
