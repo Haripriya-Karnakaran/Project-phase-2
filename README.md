@@ -1,7 +1,7 @@
-# NLP BASED RESUME ANALYSIS & ADAPTIVEE SKILL ASSESSMENT SYSTEMMM
+# NLP-BASED-RESUME-ANALYSIS-&-ADAPTIVEE-SKILL-ASSESSMENT-SYSTEMM
 
 ## ABOUT
-The NLP-Based Resume Analysis and Adaptive Skill Assessment System is an innovative solution designed to address the challenge of efficiently matching job seekers with suitable employment opportunities in the modern job market. Leveraging advanced natural language processing (NLP) techniques, the system analyzes candidate resumes to extract relevant skills and experiences. Unlike traditional resume screening methods, it goes beyond keyword matching by understanding the semantic meaning of words and phrases in job descriptions and candidate resumes.
+This project is an innovative solution designed to address the challenge of efficiently matching job seekers with suitable employment opportunities in the modern job market. Leveraging advanced natural language processing (NLP) techniques, the system analyzes candidate resumes to extract relevant skills and experiences. Unlike traditional resume screening methods, it goes beyond keyword matching by understanding the semantic meaning of words and phrases in job descriptions and candidate resumes.
 The system employs state-of-the-art deep learning models, including Word2Vec, to generate personalized job recommendations based on individual skill sets and experiences. By dynamically generating tailored interview questions and evaluating candidate responses using speech recognition and NLP techniques, the system provides objective assessments and valuable feedback to candidates, enabling them to better prepare for interviews and identify areas for improvement.
 
 ## FEATURES
