@@ -42,7 +42,7 @@ Based on the skill,the question will be generated .This system will let the cand
 ![image](https://github.com/Haripriya-Karnakaran/Project-phase-2/assets/142208150/554b38ec-39e9-40f6-882b-27261d76fb54)
 ![image](https://github.com/Haripriya-Karnakaran/Project-phase-2/assets/142208150/94610450-8366-432e-a94c-cf03d05fd689)
 
-Accuracy of the model is 95%
+Accuracy of the model is 89%
 
 
 ## CONCLUSION
